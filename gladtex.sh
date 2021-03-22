@@ -1,3 +1,3 @@
 #!/bin/sh
 
-gladtex -R -p "\usepackage{quiver}" -P - -o -
+gladtex -K -R -p "\usepackage{quiver}" -P - -o -
